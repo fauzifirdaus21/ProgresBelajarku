@@ -9,3 +9,4 @@ Ini adalah catatan dari progres belajarku :
 **Tahun 2022**  
 
 * Aku berusaha untuk menjadi seorang DEVOps insya Allah
+* Mempelajari Backend lagi dan bahasa javascript dan NodeJS lebih dalam

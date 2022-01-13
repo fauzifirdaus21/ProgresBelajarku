@@ -10,3 +10,8 @@ Ini adalah catatan dari progres belajarku :
 
 * Aku berusaha untuk menjadi seorang DEVOps insya Allah
 * Mempelajari Backend lagi dan bahasa javascript dan NodeJS lebih dalam
+
+
+**Penambahan Teks**
+
+* Test Fork 
